@@ -1,7 +1,10 @@
-//% color="#AA278D" weight=100
-namespace hello {
-    //% block
-    export function helloWorld() {
+namespace DetectPins {
 
-    }
+
+//% block
+export function randomBoolean(): boolean {
+    return false;
+}
+
+
 }
